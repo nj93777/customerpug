@@ -31,7 +31,7 @@ let customers = [
     firstname: 'Peter',
     lastname: 'North',
     email: 'peter@north.com',
-    phone: '901176'
+    phone: '9011769'
   },
 ];
 
